@@ -1,0 +1,6 @@
+country,indicator,real_col,n_train,n_test,A_r2_train,A_r2_test,B_r2_train,B_r2_test,B_coef_sentiment,B_intercept,B_pval_sentiment,A_coef_economic_growth_score_lag1,A_pval_economic_growth_score_lag1,A_coef_inflation_score_lag1,A_pval_inflation_score_lag1,A_coef_unemployment_score_lag1,A_pval_unemployment_score_lag1,A_coef_interest_rates_score_lag1,A_pval_interest_rates_score_lag1,A_coef_exchange_rate_score_lag1,A_pval_exchange_rate_score_lag1
+Moldova,GDP Growth (YoY %),gdp_yoy_pct,24,4,0.481,-1.7733,0.1371,-1.3235,6.3332,1.2894,0.0749,-0.0592,0.976,1.8721,0.2431,-5.4528,0.0729,-3.6783,0.1816,1.3551,0.6024
+Moldova,Inflation (YoY %),inflation_yoy_pct,24,5,0.5554,-30.1817,0.1103,-10.6678,-7.0459,10.5792,0.1128,3.2255,0.1648,2.2231,0.2279,5.485,0.1124,5.7887,0.0729,1.3761,0.6447
+Moldova,Unemployment (%),unemployment_pct,24,5,0.5688,-20.4041,0.3913,-17.3409,-0.7775,3.1457,0.0011,-0.0646,0.6212,0.1699,0.1155,0.2195,0.2622,-0.4628,0.0167,0.0028,0.9869
+Moldova,Interest Rate (%),interest_rate_pct,24,5,0.3259,-54.9136,0.0823,-16.443,-4.57,9.1627,0.174,2.4616,0.2474,0.2851,0.8644,4.0747,0.1965,4.6817,0.1129,-0.2391,0.9307
+Moldova,Exchange Rate (YoY chg %),exchange_rate_yoy_chg_pct,24,5,0.7054,-24.0941,0.1988,-24.0496,-5.5227,1.7139,0.029,1.534,0.1646,2.6495,0.0058,2.3299,0.1531,1.5929,0.2846,0.896,0.5287
